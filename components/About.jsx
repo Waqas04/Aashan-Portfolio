@@ -28,9 +28,9 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hello! I'm Aashan Khan, a passionate software developer and problem solver. Currently, I'm the CO-Founder of TechTribe Software Company, where I lead a talented team delivering innovative software solutions globally. I have a strong presence on Upwork, with over many successful projects completed for international clients.
+          Hello! I&apos;m Aashan Khan, a passionate software developer and problem solver. Currently, I&apos;m the CO-Founder of TechTribe Software Company, where I lead a talented team delivering innovative software solutions globally. I have a strong presence on Upwork, with over many successful projects completed for international clients.
 
-I'm a developer with experience in JavaScript, Python, and modern web technologies. I specialize in frameworks such as React, Node.js, Next.js, and Three.js, along with expertise in automation, API integrations, and business software solutions. My knowledge also extends to project management, team leadership, and client satisfaction, making me well-versed in delivering high-quality software products.
+I&apos;m a developer with experience in JavaScript, Python, and modern web technologies. I specialize in frameworks such as React, Node.js, Next.js, and Three.js, along with expertise in automation, API integrations, and business software solutions. My knowledge also extends to project management, team leadership, and client satisfaction, making me well-versed in delivering high-quality software products.
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
